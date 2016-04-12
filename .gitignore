@@ -1,1 +1,3 @@
-# Created by .ignore support plugin (hsz.mobi)
+/build
+/fib.c
+/fib.cpython-35m-darwin.so
