@@ -1,4 +1,4 @@
-def fib(long n):
+def cyfibf(long n):
     '''Returns the nth Fibonacci number.'''
     cdef long a=0, b=1, i
     for i in range(n):
