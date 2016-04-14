@@ -1,6 +1,6 @@
 # fib
 
-To run, please execute the following in any shell:
+To install, please execute the following in any shell:
 
 ```shell
 git clone https://github.com/paulhendricks/fib
